@@ -1,4 +1,14 @@
-### Hi there 👋
+### Why Hello there 👋
+
+:smile:	I'm a Newcastle University graduate, with good problem solving skills and good attention to detail. My previous experiences while working across Europe and while at university has given me a natural ability to quickly learn new skills and to take a cooperative approach to reach targets and goals. The COVID-19 lockdown has given me chance to develop my passion for technology and software.
+
+:star: My goals are to contribute to open source software and to kickstart my career in software engineering!
+
+:seedling: I'm teaching myself the language C++ and the theory of a transistor.
+
+:mailbox_closed: How to reach me: gitbill2@gmail.com
+
+:smile: Pronouns he/him
 
 <!--
 **billy258/billy258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
